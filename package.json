@@ -39,6 +39,10 @@
     ]
   },
   "devDependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.17",
+    "animate.css": "^4.1.1",
     "gh-pages": "^4.0.0"
   }
 }
