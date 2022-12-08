@@ -1,23 +1,13 @@
-import logo from './logo.svg';
+import myNameClipArt from './images/myName.png'
+import codesClipArt from './images/codes.png'
 import './App.css';
+import 'animate.css'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <img src={myNameClipArt} className="animate__animated animate__slideInLeft animate__slower"/>
+        <img src={codesClipArt} className="animate__animated animate__slideInRight animate__slower"/>
     </div>
   );
 }
