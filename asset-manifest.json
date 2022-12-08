@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/jordan/static/css/main.67e112bf.css",
-    "main.js": "/jordan/static/js/main.bd003a9d.js",
+    "main.css": "/jordan/static/css/main.df31d2e7.css",
+    "main.js": "/jordan/static/js/main.d1294c9d.js",
     "static/js/787.197ffadd.chunk.js": "/jordan/static/js/787.197ffadd.chunk.js",
-    "static/media/myName.png": "/jordan/static/media/myName.f8024d52e06662f8c385.png",
-    "static/media/codes.png": "/jordan/static/media/codes.9b3c68d24a0444c4a5c6.png",
     "index.html": "/jordan/index.html",
-    "main.67e112bf.css.map": "/jordan/static/css/main.67e112bf.css.map",
-    "main.bd003a9d.js.map": "/jordan/static/js/main.bd003a9d.js.map",
+    "main.df31d2e7.css.map": "/jordan/static/css/main.df31d2e7.css.map",
+    "main.d1294c9d.js.map": "/jordan/static/js/main.d1294c9d.js.map",
     "787.197ffadd.chunk.js.map": "/jordan/static/js/787.197ffadd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67e112bf.css",
-    "static/js/main.bd003a9d.js"
+    "static/css/main.df31d2e7.css",
+    "static/js/main.d1294c9d.js"
   ]
 }
