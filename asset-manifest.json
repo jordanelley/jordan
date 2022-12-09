@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/jordan/static/css/main.e33fba88.css",
-    "main.js": "/jordan/static/js/main.2fc92362.js",
+    "main.css": "/jordan/static/css/main.ef49e755.css",
+    "main.js": "/jordan/static/js/main.46416fad.js",
     "static/js/787.197ffadd.chunk.js": "/jordan/static/js/787.197ffadd.chunk.js",
+    "static/media/me-zip-office.png": "/jordan/static/media/me-zip-office.b2629462bba9b8173306.png",
+    "static/media/winCS.png": "/jordan/static/media/winCS.9216a92d5829d875916f.png",
+    "static/media/me-myob-office.png": "/jordan/static/media/me-myob-office.4d936f305186e20adb67.png",
+    "static/media/cfg.png": "/jordan/static/media/cfg.17c680f010cb20a5e0a5.png",
     "static/media/myName.png": "/jordan/static/media/myName.f8024d52e06662f8c385.png",
     "static/media/codes.png": "/jordan/static/media/codes.9b3c68d24a0444c4a5c6.png",
     "index.html": "/jordan/index.html",
-    "main.e33fba88.css.map": "/jordan/static/css/main.e33fba88.css.map",
-    "main.2fc92362.js.map": "/jordan/static/js/main.2fc92362.js.map",
+    "main.ef49e755.css.map": "/jordan/static/css/main.ef49e755.css.map",
+    "main.46416fad.js.map": "/jordan/static/js/main.46416fad.js.map",
     "787.197ffadd.chunk.js.map": "/jordan/static/js/787.197ffadd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e33fba88.css",
-    "static/js/main.2fc92362.js"
+    "static/css/main.ef49e755.css",
+    "static/js/main.46416fad.js"
   ]
 }
