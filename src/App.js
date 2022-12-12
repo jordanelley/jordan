@@ -17,14 +17,14 @@ function App() {
             <div className="experience">
                 <h1> Experience </h1>
                 <div className="layout-row">
-                    <img src={meZipOffice} className="photo"/>
+                    <img src={meZipOffice} className="photo hide-on-mob"/>
                     <div className="experience-details">
                         <h2> Zip Co - Feb 2021 - Apr 2022 </h2>
                         <p> Worked in dotnet core using event driven architecture</p>
                         <p> Unit tested in NUnit</p>
                         <p> Used EventStoreDb for event sourcing</p>
                         <p> Maintained front end in AngularJS</p>
-                        <p> Shared an office with a Cyberpunk developer (hence the photo)</p>
+                        <p className="hide-on-mob"> Shared an office with a Cyberpunk developer (hence the photo)</p>
                     </div>
                 </div>
                 <div className="layout-row alternative-layout-colours">
@@ -35,10 +35,10 @@ function App() {
                         <p> I have also assisted in teaching in person courses at Girl Code (https://girlcode.co.nz)</p>
 
                     </div>
-                    <img src={cfg} className="photo" id="cfg"/>
+                    <img src={cfg} className="photo hide-on-mob" id="cfg"/>
                 </div>
                 <div className="layout-row">
-                    <img src={meMyobOffice} className="photo"/>
+                    <img src={meMyobOffice} className="photo hide-on-mob"/>
                     <div className="experience-details">
                         <h2> MYOB - Feb 2018 - Oct 2020 </h2>
                         <p> Worked in react and dotnet core</p>
@@ -55,7 +55,7 @@ function App() {
                         <p> I set up learn sessions on topics which were voted the highest before exams</p>
 
                     </div>
-                    <img src={winCS} className="photo" id="cfg"/>
+                    <img src={winCS} className="photo hide-on-mob" />
                 </div>
 
             </div>

@@ -45,3 +45,10 @@ h1 {
   transform: rotate(-5deg);
 }
 
+@media screen and (max-width: 481px) {
+  .hide-on-mob {
+    display: none;
+  }
+}
+
+
