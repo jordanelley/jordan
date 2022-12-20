@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/jordan/static/css/main.c09a7386.css",
-    "main.js": "/jordan/static/js/main.9b1c2e57.js",
+    "main.css": "/jordan/static/css/main.08bc7d2b.css",
+    "main.js": "/jordan/static/js/main.0ad9401f.js",
     "static/js/787.197ffadd.chunk.js": "/jordan/static/js/787.197ffadd.chunk.js",
     "static/media/me-zip-office.png": "/jordan/static/media/me-zip-office.b2629462bba9b8173306.png",
     "static/media/winCS.png": "/jordan/static/media/winCS.9216a92d5829d875916f.png",
     "static/media/me-myob-office.png": "/jordan/static/media/me-myob-office.4d936f305186e20adb67.png",
     "static/media/cfg.png": "/jordan/static/media/cfg.17c680f010cb20a5e0a5.png",
     "static/media/myName.png": "/jordan/static/media/myName.f8024d52e06662f8c385.png",
+    "static/media/shredders-hub.png": "/jordan/static/media/shredders-hub.1c5b6742b72d90c49213.png",
     "static/media/codes.png": "/jordan/static/media/codes.9b3c68d24a0444c4a5c6.png",
+    "static/media/pokeordle.png": "/jordan/static/media/pokeordle.ba1bf386c4c5e9318136.png",
     "index.html": "/jordan/index.html",
-    "main.c09a7386.css.map": "/jordan/static/css/main.c09a7386.css.map",
-    "main.9b1c2e57.js.map": "/jordan/static/js/main.9b1c2e57.js.map",
+    "main.08bc7d2b.css.map": "/jordan/static/css/main.08bc7d2b.css.map",
+    "main.0ad9401f.js.map": "/jordan/static/js/main.0ad9401f.js.map",
     "787.197ffadd.chunk.js.map": "/jordan/static/js/787.197ffadd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c09a7386.css",
-    "static/js/main.9b1c2e57.js"
+    "static/css/main.08bc7d2b.css",
+    "static/js/main.0ad9401f.js"
   ]
 }
