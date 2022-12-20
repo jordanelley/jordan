@@ -4,16 +4,43 @@ import meZipOffice from './images/me-zip-office.png'
 import meMyobOffice from './images/me-myob-office.png'
 import cfg from './images/cfg.png'
 import winCS from './images/winCS.png'
+import pokeordle from './images/pokeordle.png'
+import shreddersHub from './images/shredders-hub.png'
+import linkedIn from './images/linkedin.png'
+import github from './images/github.png'
+
 import './App.css';
 import 'animate.css'
+
 
 function App() {
   return (
       <div className="container">
+          <head>
+              <link
+                  rel="stylesheet"
+                  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+              />
+          </head>
         <div className="App">
             <img src={myNameClipArt} className="animate__animated animate__slideInLeft animate__slower" alt="my name text"/>
             <img src={codesClipArt} className="animate__animated animate__slideInRight animate__slower" alt="code text"/>
             <div className="padding"></div>
+            <div>
+                <a href="https://nz.linkedin.com/in/jordan-elley-346ab514b" target="_blank">
+                    <img src={linkedIn} className="icon"/>
+                </a>
+                <a href="https://github.com/jordanelley/" target="_blank">
+                    <img src={github} className="icon"/>
+                </a>
+                <h1> Projects </h1> <h3> i made these really quickly so I could put them on here</h3>
+                <div>
+                    <a href="https://jordanelley.github.io/pokeordle-rewrite/" target="_blank">
+                        <img src={pokeordle} className="project-image"/>
+                    </a>
+                    <img src={shreddersHub} className="project-image"/>
+                </div>
+            </div>
             <div className="experience">
                 <h1> Experience </h1>
                 <div className="layout-row">
@@ -60,7 +87,14 @@ function App() {
 
             </div>
             <div>
-                <h1> Projects </h1>
+                <h1> Achievements </h1>
+                <p>
+                    high level on Codewars.com.  Myob had a competitive Codewars community and I was in the top 10
+                </p>
+                <img src="https://www.codewars.com/users/coolFridge9/badges/large"/>
+            <p> a few years ago, I got a reddit flare for being the top contributor to bad UI battles on reddit https://www.reddit.com/r/badUIbattles/
+                so when I post it says 'bad UI creator' next to my name</p>
+                <p> Won hackday at myob twice</p>
             </div>
         </div>
       </div>

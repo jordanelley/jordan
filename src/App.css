@@ -45,6 +45,27 @@ h1 {
   transform: rotate(-5deg);
 }
 
+.project-image{
+  padding: 3vh;
+  height: 15vh;
+}
+
+.icon{
+  height: 5vh;
+  padding: 2vh;
+}
+
+.project-image:hover {
+  filter: brightness(150%);
+  animation: wiggle 75ms infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes wiggle {
+  0% { transform: translate(2px, 0); }
+  50% { transform: translate(-2px, 0); }
+  100% { transform: translate(2px, 0); }
+}
 @media screen and (max-width: 481px) {
   .hide-on-mob {
     display: none;
