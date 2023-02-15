@@ -89,6 +89,9 @@ function App() {
             <div>
                 <h1> Achievements </h1>
                 <p>
+                    Got a computer science degree.  It was really expensive and took a while.
+                </p>
+                <p>
                     high level on Codewars.com.  Myob had a competitive Codewars community and I was in the top 10
                 </p>
                 <img src="https://www.codewars.com/users/coolFridge9/badges/large"/>
