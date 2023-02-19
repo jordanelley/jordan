@@ -38,7 +38,9 @@ function App() {
                     <a href="https://jordanelley.github.io/pokeordle-rewrite/" target="_blank">
                         <img src={pokeordle} className="project-image"/>
                     </a>
-                    <img src={shreddersHub} className="project-image"/>
+                    <a href="https://jordanelley.github.io/shredders-hub-front-v1/">
+                        <img src={shreddersHub} className="project-image"/>
+                    </a>
                 </div>
             </div>
             <div className="experience">
